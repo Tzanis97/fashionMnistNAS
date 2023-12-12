@@ -16,4 +16,4 @@ Execute the experiment on your local server using the `NAS.py` file.
 
 ## Note
 
-Values on both training and experiment are specifically selected for computational convenience.
+Values on both training and experiment are specially selected for computational convenience and understanding of the experiment.
