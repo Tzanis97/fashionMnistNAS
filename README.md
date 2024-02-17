@@ -1,6 +1,6 @@
-# Neural Architecture Search on Clustering Problem
+# Neural Architecture Search on Classification Problem
 
-Application on the process that searches for the optimal architecture of a model that clusters fashion products into 10 categories.
+Application on the process that searches for the optimal architecture of a model that classifies fashion products into 10 categories.
 
 ## Dataset
 
