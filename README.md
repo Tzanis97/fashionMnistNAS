@@ -1,6 +1,6 @@
 # Neural Architecture Search on Classification Problem
 
-Application on the process that searches for the optimal architecture of a model that classifies fashion products into 10 categories.
+Implemantation (for personal educational purposes and better understanding of NAS concept) on selecting the optimal architecture of a model that classifies fashion products into 10 categories.
 
 ## Dataset
 
